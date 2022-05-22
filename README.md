@@ -8,6 +8,7 @@ The cause we picked was climate change. We touch on its history, how it affects 
 
 ## URL
 [Website](https://pvbread.github.io/graphtheorywebsite/)
+<br>
 [Github](https://github.com/pvbread/graphtheorywebsite)
 
 ## Tools to build:
